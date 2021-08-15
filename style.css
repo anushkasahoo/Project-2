@@ -1,0 +1,19 @@
+body 
+{
+    color: white;
+    background: fuchsia;
+}
+#camera
+{
+    border: 2px dashed yellow;
+    width: 350px;
+    height: 300px;
+}
+h2
+{
+    width: 500px;
+}
+label 
+{
+    padding: 10px;
+}
